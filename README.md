@@ -1,4 +1,4 @@
-![Header](https://github.com/Regishaa/Regishaa/blob/main/Assets/6x4v.gif)
+![Header]
 
 About me
 
