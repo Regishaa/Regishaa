@@ -16,7 +16,20 @@
 ![Figma](https://img.shields.io/badge/-Figma-38393C?style=flat&logo=Figma&logoColor=#F24E1E)
 
 ### Activity:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-38393C?style=flat&logo=telegram&logoColor=#26A5E4)](https://t.me/Regishaaaa)
