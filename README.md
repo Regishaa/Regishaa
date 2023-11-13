@@ -15,6 +15,9 @@
 ![Git](https://img.shields.io/badge/-Git-38393C?style=flat&logo=Git&logoColor=#F05032)
 ![Figma](https://img.shields.io/badge/-Figma-38393C?style=flat&logo=Figma&logoColor=#F24E1E)
 
+### Activity:
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-38393C?style=flat&logo=telegram&logoColor=#26A5E4)](https://t.me/Regishaaaa)
 [![Instagram](https://img.shields.io/badge/-Instagram-38393C?style=flat&logo=Instagram&logoColor=#E4405F)](https://instagram.com/_gmlv_?igshid=YmMyMTA2M2Y=)
